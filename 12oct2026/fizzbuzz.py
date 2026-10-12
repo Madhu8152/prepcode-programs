@@ -6,7 +6,7 @@ for i in range(1,count+1):
         output.append("fizzbuzz")
 else:
      output.append("fizz")
-     elif i/5==0;
+    elif i/5==0:
      output.append("buzz")
 else:
      output.append(:)
