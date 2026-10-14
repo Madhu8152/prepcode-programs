@@ -1,4 +1,4 @@
-def sum-list(numbers):
+def sum_list(numbers):
     total=0
     for n in numbers:
         total=total+n  
