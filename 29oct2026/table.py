@@ -1,3 +1,3 @@
 n=int(input("Enter a number:"))
 for i in range  (1,11):
-    print("x","n","n=i"
+    print(n,"X",i,"=",n*i)
