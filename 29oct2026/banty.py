@@ -1,6 +1,6 @@
-def_string_length
-for(char,int)
-    count =1
+
+for(char in s):
+    count +=1
     return count
     exam usage
     string ="hello,world"
